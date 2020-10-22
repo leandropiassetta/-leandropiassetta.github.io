@@ -1,0 +1,33 @@
+.nome {
+    font-family: Verdana,sans-serif;
+}
+
+.descricao{
+    font-family: cursive,sans-serif;
+}
+ 
+body{
+    background-color: rgb(196, 201, 207);
+}
+ .info{
+     font-weight: bold;
+     color: rgb(63, 63, 3);
+ }
+ .Pa{
+     font-size:100%;
+ }
+ .Re{
+     font-size:99%;
+ }
+.Pe{
+    font-size:98%;
+}
+.Pra{
+    font-size:97%;
+}
+.Pro{
+    font-size:96%;
+}
+.Ade{
+    font-size:95%;
+}
